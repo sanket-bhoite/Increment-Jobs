@@ -1,5 +1,5 @@
 # IncrementJobs (Hiring Website)
-I have worked in IncrementJobs Company as Web Development Intern
+I have worked in IncrementJobs Company as Web Application Development Intern
 
 ***************************************
 
